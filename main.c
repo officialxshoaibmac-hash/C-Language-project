@@ -3,6 +3,8 @@
 int main()
 
 {
+  
+// Variable declaration
 
 char first_name[50], last_name[50], gender[10];
 int age;
