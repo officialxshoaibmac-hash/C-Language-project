@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/shoaib/C Language /C-Language-project/basic projects/arithmetic'
+relocations:     []
+...
